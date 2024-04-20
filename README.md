@@ -12,8 +12,7 @@ Hello bro
 </h1>
   <div>
   <h1>
-Technology stack
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXIxZXlla3hzMHUyYmhkanB6cHphaTI3emhxdnhrem9hMmNuaDU1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gifhttps://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXIxZXlla3hzMHUyYmhkanB6cHphaTI3emhxdnhrem9hMmNuaDU1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"/>
+Technology stack ⚒️
   </h1>
     <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
